@@ -17,6 +17,8 @@ public class Lab4 {
         // TODO code application logic here
         
         System.out.println("Hellow world");
+        
+        System.out.println("Hello hellow world");
     }
     
 }
